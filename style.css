@@ -16,22 +16,18 @@ a {
 	margin-bottom: 16pt;
 	border-left: 2px #f8f8f8 solid;
 	padding-left: 16px;
-	white-space: nowrap;
 }
 
 
 .conference-name {
 	font-weight: 300;
 	font-size: 1.0em;
-	white-space: nowrap;
-
 }
 
 .software-name {
 	font-weight: 300;
 	font-size: 1.6em;
 	margin-bottom: 4px;
-	white-space: nowrap;
 }
 
 .blog-post {
@@ -43,7 +39,6 @@ a {
 	vertical-align: middle;
 	padding: 10px 5px 10px 5px;
 	margin-top: 20px;
-	white-space: nowrap;
 }
 
 .blog-post>.thumbnail {
@@ -53,14 +48,12 @@ a {
 	flex-direction: column;
 	justify-content: center;
 	margin: auto;
-	white-space: nowrap;
 }
 
 @media screen and (max-width: 768px){
 	.blog-post>.thumbnail {
 		margin-top: 10px;
 		margin-bottom: 25px;
-		white-space: nowrap;
 	}
 }
 
@@ -71,7 +64,6 @@ a {
 	justify-content: center;
 	/* margin-top: 10px; */
 	/* margin-bottom: 10px; */
-	white-space: nowrap;
 }
 
 
@@ -95,5 +87,4 @@ a {
 	-webkit-line-clamp: 2; 
 	margin-bottom: 0;
 	margin-top: 4px;
-	white-space: nowrap;
 }
